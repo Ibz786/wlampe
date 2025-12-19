@@ -24,4 +24,4 @@ What they need to cover:
 >
 > Additionally, I would like to imagine this is also how Wiedemann Lampe could potentially document their internal documentation including reusable Features, Components, Composables, Style Guides etc.
 >
-> It can also be a means of documenting Client / Customer onboarding with all the necessary steps, commands etc. laid out similar to this feature
+> It can also be a means of documenting Client / Customer onboarding with all the necessary steps, commands etc., laid out similar to this feature

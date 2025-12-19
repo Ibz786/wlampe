@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Wiedemann Lampe"
   text: "Wiedemann Lampe Server Setup Scenario"
-  tagline: My great project tagline
+  tagline: Documenting the steps and stages on how to onboard a new client from a technical perspective
   actions:
     - theme: brand
       text: Setup
