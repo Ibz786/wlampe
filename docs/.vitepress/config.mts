@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/wlampe/',
   title: "Wiedemann Lampe",
   description: "Wiedemann Lampe Server Setup Scenario",
   themeConfig: {

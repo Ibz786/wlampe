@@ -15,3 +15,13 @@ What they need to cover:
 - [NGINX Setup](./docs/task/nginx.md)
 - [Environment Management (local/staging/production)](./docs/task/environment.md)
 - [How could you automate this in the future)](./docs/task/automation.md)
+
+>[!Note]
+>
+> On a side note, I throughly enjoyed this exercise. It was a great learning expereince.
+
+>[!Info]
+>
+> Additionally, I would like to imagine this is also how Wiedemann Lampe could potentially document their internal documentation including reusable Features, Components, Composables, Style Guides etc.
+>
+> It can also be a means of documenting Client / Customer onboarding with all the necessary steps, commands etc. laid out similar to this feature
