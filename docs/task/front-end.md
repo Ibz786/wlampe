@@ -52,13 +52,26 @@ export default defineNuxtConfig({
 });
 ```
 
-
-
 ## Development 
 ```bash
 npm run dev
 ```
 Since the backend is served by CraftCMS and PHP, we don't need to worry about configuring a `ecosystem.config.cjs` as PM2 will not be needed on the server. Nuxt.js will serve SSG files
+
+## Modules
+### Imgix - Image Optimisation
+There is a Nuxt Module: [Nuxt Image](https://image.nuxt.com/) that helps with image optimisation. It can easily added to the project:
+```bash
+npx nuxt module add image
+```
+It has out of the box integration with various image providers, including [Imgix](https://image.nuxt.com/providers/imgix) and more
+
+### CraftCMS
+There is a Nuxt Module [@query-api/nuxt](https://nuxt.com/modules/query-api), which helps to provide simple ways to query data from Craft CMS
+
+>[!Tip]
+>
+>These modules can help further improve and streamline the overall development process!
 
 
 ## Build Configuation
